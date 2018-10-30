@@ -28,9 +28,6 @@ void benchmark(std::vector<int>& _vector)
 
 int main()
 {
-	std::vector<int> fuckshit = {80, 93, 60, 12, 42, 30, 68, 85, 10};
-	ShellSort::Sort(fuckshit);
-
 	std::vector<int> unsorted_small;
 	std::vector<int> unsorted_medium;
 	std::vector<int> unsorted_large;
