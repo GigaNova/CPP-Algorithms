@@ -2,7 +2,7 @@
 
 void OddEvenSort::Sort(std::vector<int>& _unsortedVector)
 {
-	odd(_unsortedVector);
+	even(_unsortedVector);
 }
 
 void OddEvenSort::odd(std::vector<int>& _vector)
